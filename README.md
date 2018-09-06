@@ -44,6 +44,5 @@ BROWSERSTACK_ACCESS_KEY=nTnrxYTqE55jeklwks
 
 - To run the tests:
 For Browserstack: `yarn test-mobile-remote` / `npm run test-mobile-remote`
-
 For Local: `yarn test-mobile-local` / `npm run test-mobile-local`
 
