@@ -1,0 +1,17 @@
+{
+  "extends": "standard",
+  "plugins": ["standard", "promise"],
+  "rules": {
+    "space-before-function-paren": "off",
+    "no-unused-expressions": "off"
+  },
+  "globals": {
+    "browser": false,
+    "expect": false,
+    "$": false,
+    "$$": false
+  },
+  "env": {
+    "mocha": true
+  }
+}
