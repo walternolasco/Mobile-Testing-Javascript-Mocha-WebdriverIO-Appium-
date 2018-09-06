@@ -37,12 +37,12 @@
     "webdriverio": "^4.13.2"
   },
   "devDependencies": {
+    "appium-controller": "^1.1.6",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
-    "wdio-appium-service": "^0.2.3",
     "wdio-browserstack-service": "^0.1.16",
     "wdio-mocha-framework": "^0.2.11",
     "wdio-spec-reporter": "^0.1.5"
